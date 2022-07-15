@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **flutter, java, dart**
 
+- 📫 How to reach me **contactkratos@icloud.com**
+
 - ⚡ Fun fact **I think i am Introvert XD**
 
 <h3 align="left">Connect with me:</h3>
