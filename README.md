@@ -3,7 +3,9 @@
 <h3 align="center">A passionate full Stack Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
+
 <p align="left"> <a href="https://twitter.com/genxkratos" target="blank"><img src="https://img.shields.io/twitter/follow/genxkratos?logo=twitter&style=for-the-badge" alt="genxkratos" /></a> </p>
+<p align="left"> <a href="https://www.buymeacoffee.com/KratosOfficial" target="blank"><img width="200" alt="bmc" src="https://user-images.githubusercontent.com/83639732/200291393-1d913f19-db63-402e-8162-c68c357bcc0d.png"></a> </p>
 
 - 🌱 I’m currently learning **Flutter Framework**
 
